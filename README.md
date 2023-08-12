@@ -1,2 +1,2 @@
 # lets-dhaan
-I developed this website using html and css.
+I developed this website using html,css and Javascript.
